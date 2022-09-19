@@ -1,0 +1,3 @@
+C:/Users/dell/CLionProjects/Cpp_Streams/cmake-build-debug/CMakeFiles/Cpp_Streams.dir
+C:/Users/dell/CLionProjects/Cpp_Streams/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dell/CLionProjects/Cpp_Streams/cmake-build-debug/CMakeFiles/rebuild_cache.dir
